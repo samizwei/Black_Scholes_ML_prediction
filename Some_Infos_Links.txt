@@ -1,0 +1,7 @@
+Link to the docs for yfinance:
+https://pypi.org/project/yfinance/
+Explicit documentation: 
+https://ranaroussi.github.io/yfinance/
+
+some pytorch documentation (model building):
+https://docs.pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
